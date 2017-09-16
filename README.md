@@ -1,23 +1,24 @@
-napolitan
+neis-meal
 ===
 
-a Project to write a Novel with TypeScript
+
+parsing lib for neis food table
 ---
 
 
-# run
+- lang: TypeScript
+
+
+# how to use
 ## install
   <code><pre>npm install -g webpack webpack-dev-server
   npm install</pre></code>
 
-## start
-  <code><pre>npm run start</pre></code>
-
 ## test
-  <code><pre>npm run dev</pre></code>
-
-## execute
-  <code><pre>npm run exec</pre></code>
+  <code><pre>npm run test</pre></code>
 
 ## compile
   <code><pre>npm run compile</pre></code>
+
+## exec
+  <code><pre>npm run exec</pre></code>
