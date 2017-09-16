@@ -11,14 +11,14 @@ parsing lib for neis food table
 
 # how to use
 ## install
-  <code><pre>npm install -g webpack webpack-dev-server
-  npm install</pre></code>
+<code><pre>npm install -g webpack webpack-dev-server
+npm install</pre></code>
 
 ## test
-  <code><pre>npm run test</pre></code>
+<code><pre>npm run test</pre></code>
 
 ## compile
-  <code><pre>npm run compile</pre></code>
+<code><pre>npm run compile</pre></code>
 
 ## exec
-  <code><pre>npm run exec</pre></code>
+<code><pre>npm run exec</pre></code>
